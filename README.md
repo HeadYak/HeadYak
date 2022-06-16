@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeadYak
 - 👀 I’m interested in 
-  - Any software engineer internship opportunities
+  - Any software engineering internship opportunities
 - 🌱 I’m currently learning ...
   - Unity and C# 
   - Golang
